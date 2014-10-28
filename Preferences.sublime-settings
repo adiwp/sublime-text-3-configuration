@@ -1,0 +1,24 @@
+{
+	"theme": "Coffee Dark Roast.sublime-theme",
+	"color_scheme": "Packages/Theme - Coffee/Coffee Dark Roast.tmTheme",
+	"overlay_scroll_bars": "enabled",
+	"tabs_small": true,
+	"word_wrap": true,
+	"translate_tabs_to_spaces": true,
+    "font_face": "Droid Sans Mono",
+    "font_size": 11,
+    "line_padding_top": 2,
+    "line_padding_bottom": 2,
+    "auto_indent": true,
+    "smart_indent": true,
+    "tab_size": 4,
+    "spell_check": false,
+    "line_numbers": true,
+    "rulers": [
+        100
+    ],
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
